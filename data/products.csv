@@ -1,0 +1,274 @@
+product_id,product_name,category,item,brand_tier,base_price_kes,unit_cost_kes
+P0001,Maize Flour 2kg (Value),Flour & Grains,Maize Flour 2kg,Value,145,121.0
+P0002,Maize Flour 2kg (Standard),Flour & Grains,Maize Flour 2kg,Standard,171,142.0
+P0003,Maize Flour 2kg (Premium),Flour & Grains,Maize Flour 2kg,Premium,222,161.0
+P0004,Wheat Flour 2kg (Value),Flour & Grains,Wheat Flour 2kg,Value,195,145.0
+P0005,Wheat Flour 2kg (Standard),Flour & Grains,Wheat Flour 2kg,Standard,229,172.0
+P0006,Wheat Flour 2kg (Premium),Flour & Grains,Wheat Flour 2kg,Premium,298,224.0
+P0007,Rice 1kg (Value),Flour & Grains,Rice 1kg,Value,153,122.0
+P0008,Rice 1kg (Standard),Flour & Grains,Rice 1kg,Standard,180,139.0
+P0009,Rice 1kg (Premium),Flour & Grains,Rice 1kg,Premium,234,170.0
+P0010,Rice 2kg (Value),Flour & Grains,Rice 2kg,Value,120,92.0
+P0011,Rice 2kg (Standard),Flour & Grains,Rice 2kg,Standard,141,111.0
+P0012,Rice 2kg (Premium),Flour & Grains,Rice 2kg,Premium,183,134.0
+P0013,Sugar 1kg (Value),Flour & Grains,Sugar 1kg,Value,123,102.0
+P0014,Sugar 1kg (Standard),Flour & Grains,Sugar 1kg,Standard,145,105.0
+P0015,Sugar 1kg (Premium),Flour & Grains,Sugar 1kg,Premium,188,158.0
+P0016,Sugar 2kg (Value),Flour & Grains,Sugar 2kg,Value,263,193.0
+P0017,Sugar 2kg (Standard),Flour & Grains,Sugar 2kg,Standard,309,256.0
+P0018,Sugar 2kg (Premium),Flour & Grains,Sugar 2kg,Premium,402,337.0
+P0019,Green Grams 1kg (Value),Flour & Grains,Green Grams 1kg,Value,250,212.0
+P0020,Green Grams 1kg (Standard),Flour & Grains,Green Grams 1kg,Standard,295,243.0
+P0021,Green Grams 1kg (Premium),Flour & Grains,Green Grams 1kg,Premium,383,315.0
+P0022,Beans 1kg (Value),Flour & Grains,Beans 1kg,Value,208,167.0
+P0023,Beans 1kg (Standard),Flour & Grains,Beans 1kg,Standard,244,200.0
+P0024,Beans 1kg (Premium),Flour & Grains,Beans 1kg,Premium,317,234.0
+P0025,Millet Flour 1kg (Value),Flour & Grains,Millet Flour 1kg,Value,140,111.0
+P0026,Millet Flour 1kg (Standard),Flour & Grains,Millet Flour 1kg,Standard,165,130.0
+P0027,Millet Flour 1kg (Premium),Flour & Grains,Millet Flour 1kg,Premium,215,179.0
+P0028,Oats 500g (Value),Flour & Grains,Oats 500g,Value,265,207.0
+P0029,Oats 500g (Standard),Flour & Grains,Oats 500g,Standard,311,239.0
+P0030,Oats 500g (Premium),Flour & Grains,Oats 500g,Premium,405,325.0
+P0031,Cooking Oil 1L (Value),Cooking Oil & Fats,Cooking Oil 1L,Value,205,155.0
+P0032,Cooking Oil 1L (Standard),Cooking Oil & Fats,Cooking Oil 1L,Standard,242,179.0
+P0033,Cooking Oil 1L (Premium),Cooking Oil & Fats,Cooking Oil 1L,Premium,314,246.0
+P0034,Cooking Oil 3L (Value),Cooking Oil & Fats,Cooking Oil 3L,Value,636,492.0
+P0035,Cooking Oil 3L (Standard),Cooking Oil & Fats,Cooking Oil 3L,Standard,748,561.0
+P0036,Cooking Oil 3L (Premium),Cooking Oil & Fats,Cooking Oil 3L,Premium,973,747.0
+P0037,Cooking Fat 500g (Value),Cooking Oil & Fats,Cooking Fat 500g,Value,540,415.0
+P0038,Cooking Fat 500g (Standard),Cooking Oil & Fats,Cooking Fat 500g,Standard,636,485.0
+P0039,Cooking Fat 500g (Premium),Cooking Oil & Fats,Cooking Fat 500g,Premium,826,635.0
+P0040,Cooking Fat 1kg (Value),Cooking Oil & Fats,Cooking Fat 1kg,Value,506,409.0
+P0041,Cooking Fat 1kg (Standard),Cooking Oil & Fats,Cooking Fat 1kg,Standard,596,452.0
+P0042,Cooking Fat 1kg (Premium),Cooking Oil & Fats,Cooking Fat 1kg,Premium,774,653.0
+P0043,Margarine 500g (Value),Cooking Oil & Fats,Margarine 500g,Value,314,263.0
+P0044,Margarine 500g (Standard),Cooking Oil & Fats,Margarine 500g,Standard,369,289.0
+P0045,Margarine 500g (Premium),Cooking Oil & Fats,Margarine 500g,Premium,480,366.0
+P0046,Sunflower Oil 2L (Value),Cooking Oil & Fats,Sunflower Oil 2L,Value,434,343.0
+P0047,Sunflower Oil 2L (Standard),Cooking Oil & Fats,Sunflower Oil 2L,Standard,511,424.0
+P0048,Sunflower Oil 2L (Premium),Cooking Oil & Fats,Sunflower Oil 2L,Premium,664,534.0
+P0049,Fresh Milk 500ml (Value),Dairy & Eggs,Fresh Milk 500ml,Value,94,78.0
+P0050,Fresh Milk 500ml (Standard),Dairy & Eggs,Fresh Milk 500ml,Standard,110,87.0
+P0051,Fresh Milk 500ml (Premium),Dairy & Eggs,Fresh Milk 500ml,Premium,143,115.0
+P0052,Fresh Milk 1L (Value),Dairy & Eggs,Fresh Milk 1L,Value,63,48.0
+P0053,Fresh Milk 1L (Standard),Dairy & Eggs,Fresh Milk 1L,Standard,75,61.0
+P0054,Fresh Milk 1L (Premium),Dairy & Eggs,Fresh Milk 1L,Premium,97,72.0
+P0055,Long Life Milk 500ml (Value),Dairy & Eggs,Long Life Milk 500ml,Value,58,47.0
+P0056,Long Life Milk 500ml (Standard),Dairy & Eggs,Long Life Milk 500ml,Standard,68,57.0
+P0057,Long Life Milk 500ml (Premium),Dairy & Eggs,Long Life Milk 500ml,Premium,89,66.0
+P0058,Yoghurt 500ml (Value),Dairy & Eggs,Yoghurt 500ml,Value,161,129.0
+P0059,Yoghurt 500ml (Standard),Dairy & Eggs,Yoghurt 500ml,Standard,189,138.0
+P0060,Yoghurt 500ml (Premium),Dairy & Eggs,Yoghurt 500ml,Premium,246,200.0
+P0061,Mala 500ml (Value),Dairy & Eggs,Mala 500ml,Value,67,49.0
+P0062,Mala 500ml (Standard),Dairy & Eggs,Mala 500ml,Standard,79,66.0
+P0063,Mala 500ml (Premium),Dairy & Eggs,Mala 500ml,Premium,102,75.0
+P0064,Butter 250g (Value),Dairy & Eggs,Butter 250g,Value,327,276.0
+P0065,Butter 250g (Standard),Dairy & Eggs,Butter 250g,Standard,384,316.0
+P0066,Butter 250g (Premium),Dairy & Eggs,Butter 250g,Premium,500,399.0
+P0067,Eggs Tray 30 (Value),Dairy & Eggs,Eggs Tray 30,Value,159,131.0
+P0068,Eggs Tray 30 (Standard),Dairy & Eggs,Eggs Tray 30,Standard,187,154.0
+P0069,Eggs Tray 30 (Premium),Dairy & Eggs,Eggs Tray 30,Premium,243,205.0
+P0070,Cheese 200g (Value),Dairy & Eggs,Cheese 200g,Value,97,73.0
+P0071,Cheese 200g (Standard),Dairy & Eggs,Cheese 200g,Standard,114,91.0
+P0072,Cheese 200g (Premium),Dairy & Eggs,Cheese 200g,Premium,148,108.0
+P0073,White Bread 400g (Value),Bakery,White Bread 400g,Value,267,214.0
+P0074,White Bread 400g (Standard),Bakery,White Bread 400g,Standard,314,233.0
+P0075,White Bread 400g (Premium),Bakery,White Bread 400g,Premium,408,324.0
+P0076,Brown Bread 400g (Value),Bakery,Brown Bread 400g,Value,140,111.0
+P0077,Brown Bread 400g (Standard),Bakery,Brown Bread 400g,Standard,164,128.0
+P0078,Brown Bread 400g (Premium),Bakery,Brown Bread 400g,Premium,214,169.0
+P0079,Bread 600g (Value),Bakery,Bread 600g,Value,118,97.0
+P0080,Bread 600g (Standard),Bakery,Bread 600g,Standard,138,114.0
+P0081,Bread 600g (Premium),Bakery,Bread 600g,Premium,180,141.0
+P0082,Mandazi Pack (Value),Bakery,Mandazi Pack,Value,82,65.0
+P0083,Mandazi Pack (Standard),Bakery,Mandazi Pack,Standard,96,81.0
+P0084,Mandazi Pack (Premium),Bakery,Mandazi Pack,Premium,125,92.0
+P0085,Queen Cakes 6pc (Value),Bakery,Queen Cakes 6pc,Value,92,68.0
+P0086,Queen Cakes 6pc (Standard),Bakery,Queen Cakes 6pc,Standard,108,79.0
+P0087,Queen Cakes 6pc (Premium),Bakery,Queen Cakes 6pc,Premium,140,113.0
+P0088,Chapati 5pc (Value),Bakery,Chapati 5pc,Value,128,99.0
+P0089,Chapati 5pc (Standard),Bakery,Chapati 5pc,Standard,150,123.0
+P0090,Chapati 5pc (Premium),Bakery,Chapati 5pc,Premium,195,157.0
+P0091,Tomatoes 1kg (Value),Fresh Produce,Tomatoes 1kg,Value,33,25.0
+P0092,Tomatoes 1kg (Standard),Fresh Produce,Tomatoes 1kg,Standard,39,33.0
+P0093,Tomatoes 1kg (Premium),Fresh Produce,Tomatoes 1kg,Premium,50,41.0
+P0094,Onions 1kg (Value),Fresh Produce,Onions 1kg,Value,120,91.0
+P0095,Onions 1kg (Standard),Fresh Produce,Onions 1kg,Standard,141,108.0
+P0096,Onions 1kg (Premium),Fresh Produce,Onions 1kg,Premium,183,139.0
+P0097,Sukuma Wiki Bunch (Value),Fresh Produce,Sukuma Wiki Bunch,Value,49,36.0
+P0098,Sukuma Wiki Bunch (Standard),Fresh Produce,Sukuma Wiki Bunch,Standard,57,42.0
+P0099,Sukuma Wiki Bunch (Premium),Fresh Produce,Sukuma Wiki Bunch,Premium,75,63.0
+P0100,Cabbage (Value),Fresh Produce,Cabbage,Value,116,90.0
+P0101,Cabbage (Standard),Fresh Produce,Cabbage,Standard,137,105.0
+P0102,Cabbage (Premium),Fresh Produce,Cabbage,Premium,178,145.0
+P0103,Bananas 1kg (Value),Fresh Produce,Bananas 1kg,Value,136,108.0
+P0104,Bananas 1kg (Standard),Fresh Produce,Bananas 1kg,Standard,160,135.0
+P0105,Bananas 1kg (Premium),Fresh Produce,Bananas 1kg,Premium,208,171.0
+P0106,Potatoes 2kg (Value),Fresh Produce,Potatoes 2kg,Value,150,117.0
+P0107,Potatoes 2kg (Standard),Fresh Produce,Potatoes 2kg,Standard,176,135.0
+P0108,Potatoes 2kg (Premium),Fresh Produce,Potatoes 2kg,Premium,229,194.0
+P0109,Avocado 1kg (Value),Fresh Produce,Avocado 1kg,Value,33,27.0
+P0110,Avocado 1kg (Standard),Fresh Produce,Avocado 1kg,Standard,38,32.0
+P0111,Avocado 1kg (Premium),Fresh Produce,Avocado 1kg,Premium,50,37.0
+P0112,Oranges 1kg (Value),Fresh Produce,Oranges 1kg,Value,210,174.0
+P0113,Oranges 1kg (Standard),Fresh Produce,Oranges 1kg,Standard,247,198.0
+P0114,Oranges 1kg (Premium),Fresh Produce,Oranges 1kg,Premium,321,236.0
+P0115,Carrots 1kg (Value),Fresh Produce,Carrots 1kg,Value,43,34.0
+P0116,Carrots 1kg (Standard),Fresh Produce,Carrots 1kg,Standard,51,41.0
+P0117,Carrots 1kg (Premium),Fresh Produce,Carrots 1kg,Premium,66,48.0
+P0118,Beef 1kg (Value),Meat & Poultry,Beef 1kg,Value,440,343.0
+P0119,Beef 1kg (Standard),Meat & Poultry,Beef 1kg,Standard,518,429.0
+P0120,Beef 1kg (Premium),Meat & Poultry,Beef 1kg,Premium,674,511.0
+P0121,Whole Chicken (Value),Meat & Poultry,Whole Chicken,Value,876,683.0
+P0122,Whole Chicken (Standard),Meat & Poultry,Whole Chicken,Standard,1031,802.0
+P0123,Whole Chicken (Premium),Meat & Poultry,Whole Chicken,Premium,1340,1017.0
+P0124,Chicken Pieces 1kg (Value),Meat & Poultry,Chicken Pieces 1kg,Value,402,337.0
+P0125,Chicken Pieces 1kg (Standard),Meat & Poultry,Chicken Pieces 1kg,Standard,472,388.0
+P0126,Chicken Pieces 1kg (Premium),Meat & Poultry,Chicken Pieces 1kg,Premium,614,451.0
+P0127,Goat Meat 1kg (Value),Meat & Poultry,Goat Meat 1kg,Value,356,302.0
+P0128,Goat Meat 1kg (Standard),Meat & Poultry,Goat Meat 1kg,Standard,419,350.0
+P0129,Goat Meat 1kg (Premium),Meat & Poultry,Goat Meat 1kg,Premium,544,412.0
+P0130,Sausages 500g (Value),Meat & Poultry,Sausages 500g,Value,528,438.0
+P0131,Sausages 500g (Standard),Meat & Poultry,Sausages 500g,Standard,621,456.0
+P0132,Sausages 500g (Premium),Meat & Poultry,Sausages 500g,Premium,808,687.0
+P0133,Tilapia Whole (Value),Meat & Poultry,Tilapia Whole,Value,928,748.0
+P0134,Tilapia Whole (Standard),Meat & Poultry,Tilapia Whole,Standard,1092,879.0
+P0135,Tilapia Whole (Premium),Meat & Poultry,Tilapia Whole,Premium,1419,1038.0
+P0136,Soda 500ml (Value),Beverages,Soda 500ml,Value,321,269.0
+P0137,Soda 500ml (Standard),Beverages,Soda 500ml,Standard,378,274.0
+P0138,Soda 500ml (Premium),Beverages,Soda 500ml,Premium,491,369.0
+P0139,Soda 2L (Value),Beverages,Soda 2L,Value,247,182.0
+P0140,Soda 2L (Standard),Beverages,Soda 2L,Standard,290,238.0
+P0141,Soda 2L (Premium),Beverages,Soda 2L,Premium,377,281.0
+P0142,Juice 1L (Value),Beverages,Juice 1L,Value,124,104.0
+P0143,Juice 1L (Standard),Beverages,Juice 1L,Standard,146,118.0
+P0144,Juice 1L (Premium),Beverages,Juice 1L,Premium,190,138.0
+P0145,Water 1L (Value),Beverages,Water 1L,Value,64,46.0
+P0146,Water 1L (Standard),Beverages,Water 1L,Standard,75,55.0
+P0147,Water 1L (Premium),Beverages,Water 1L,Premium,98,78.0
+P0148,Water 5L (Value),Beverages,Water 5L,Value,302,249.0
+P0149,Water 5L (Standard),Beverages,Water 5L,Standard,356,267.0
+P0150,Water 5L (Premium),Beverages,Water 5L,Premium,462,384.0
+P0151,Tea Leaves 250g (Value),Beverages,Tea Leaves 250g,Value,95,69.0
+P0152,Tea Leaves 250g (Standard),Beverages,Tea Leaves 250g,Standard,112,92.0
+P0153,Tea Leaves 250g (Premium),Beverages,Tea Leaves 250g,Premium,146,123.0
+P0154,Tea Leaves 500g (Value),Beverages,Tea Leaves 500g,Value,475,390.0
+P0155,Tea Leaves 500g (Standard),Beverages,Tea Leaves 500g,Standard,559,453.0
+P0156,Tea Leaves 500g (Premium),Beverages,Tea Leaves 500g,Premium,727,603.0
+P0157,Drinking Chocolate 400g (Value),Beverages,Drinking Chocolate 400g,Value,91,66.0
+P0158,Drinking Chocolate 400g (Standard),Beverages,Drinking Chocolate 400g,Standard,107,80.0
+P0159,Drinking Chocolate 400g (Premium),Beverages,Drinking Chocolate 400g,Premium,138,102.0
+P0160,Instant Coffee 100g (Value),Beverages,Instant Coffee 100g,Value,68,53.0
+P0161,Instant Coffee 100g (Standard),Beverages,Instant Coffee 100g,Standard,80,65.0
+P0162,Instant Coffee 100g (Premium),Beverages,Instant Coffee 100g,Premium,105,84.0
+P0163,Crisps 50g (Value),Snacks & Confectionery,Crisps 50g,Value,47,39.0
+P0164,Crisps 50g (Standard),Snacks & Confectionery,Crisps 50g,Standard,56,41.0
+P0165,Crisps 50g (Premium),Snacks & Confectionery,Crisps 50g,Premium,72,59.0
+P0166,Biscuits 200g (Value),Snacks & Confectionery,Biscuits 200g,Value,35,26.0
+P0167,Biscuits 200g (Standard),Snacks & Confectionery,Biscuits 200g,Standard,41,31.0
+P0168,Biscuits 200g (Premium),Snacks & Confectionery,Biscuits 200g,Premium,54,44.0
+P0169,Cookies 400g (Value),Snacks & Confectionery,Cookies 400g,Value,58,49.0
+P0170,Cookies 400g (Standard),Snacks & Confectionery,Cookies 400g,Standard,68,54.0
+P0171,Cookies 400g (Premium),Snacks & Confectionery,Cookies 400g,Premium,88,64.0
+P0172,Peanuts 100g (Value),Snacks & Confectionery,Peanuts 100g,Value,46,37.0
+P0173,Peanuts 100g (Standard),Snacks & Confectionery,Peanuts 100g,Standard,54,39.0
+P0174,Peanuts 100g (Premium),Snacks & Confectionery,Peanuts 100g,Premium,70,58.0
+P0175,Sweets Pack (Value),Snacks & Confectionery,Sweets Pack,Value,162,132.0
+P0176,Sweets Pack (Standard),Snacks & Confectionery,Sweets Pack,Standard,190,141.0
+P0177,Sweets Pack (Premium),Snacks & Confectionery,Sweets Pack,Premium,248,182.0
+P0178,Chocolate Bar (Value),Snacks & Confectionery,Chocolate Bar,Value,45,33.0
+P0179,Chocolate Bar (Standard),Snacks & Confectionery,Chocolate Bar,Standard,53,45.0
+P0180,Chocolate Bar (Premium),Snacks & Confectionery,Chocolate Bar,Premium,69,54.0
+P0181,Detergent Powder 1kg (Value),Household Cleaning,Detergent Powder 1kg,Value,367,302.0
+P0182,Detergent Powder 1kg (Standard),Household Cleaning,Detergent Powder 1kg,Standard,431,346.0
+P0183,Detergent Powder 1kg (Premium),Household Cleaning,Detergent Powder 1kg,Premium,561,446.0
+P0184,Detergent Powder 3kg (Value),Household Cleaning,Detergent Powder 3kg,Value,101,75.0
+P0185,Detergent Powder 3kg (Standard),Household Cleaning,Detergent Powder 3kg,Standard,119,100.0
+P0186,Detergent Powder 3kg (Premium),Household Cleaning,Detergent Powder 3kg,Premium,154,117.0
+P0187,Bar Soap 800g (Value),Household Cleaning,Bar Soap 800g,Value,99,79.0
+P0188,Bar Soap 800g (Standard),Household Cleaning,Bar Soap 800g,Standard,117,95.0
+P0189,Bar Soap 800g (Premium),Household Cleaning,Bar Soap 800g,Premium,152,122.0
+P0190,Bleach 750ml (Value),Household Cleaning,Bleach 750ml,Value,547,461.0
+P0191,Bleach 750ml (Standard),Household Cleaning,Bleach 750ml,Standard,643,475.0
+P0192,Bleach 750ml (Premium),Household Cleaning,Bleach 750ml,Premium,836,657.0
+P0193,Dishwashing Liquid 750ml (Value),Household Cleaning,Dishwashing Liquid 750ml,Value,178,138.0
+P0194,Dishwashing Liquid 750ml (Standard),Household Cleaning,Dishwashing Liquid 750ml,Standard,209,163.0
+P0195,Dishwashing Liquid 750ml (Premium),Household Cleaning,Dishwashing Liquid 750ml,Premium,272,200.0
+P0196,Toilet Cleaner 500ml (Value),Household Cleaning,Toilet Cleaner 500ml,Value,145,107.0
+P0197,Toilet Cleaner 500ml (Standard),Household Cleaning,Toilet Cleaner 500ml,Standard,170,129.0
+P0198,Toilet Cleaner 500ml (Premium),Household Cleaning,Toilet Cleaner 500ml,Premium,221,168.0
+P0199,Toilet Paper 10 Rolls (Value),Household Cleaning,Toilet Paper 10 Rolls,Value,216,168.0
+P0200,Toilet Paper 10 Rolls (Standard),Household Cleaning,Toilet Paper 10 Rolls,Standard,254,203.0
+P0201,Toilet Paper 10 Rolls (Premium),Household Cleaning,Toilet Paper 10 Rolls,Premium,330,265.0
+P0202,Toothpaste 100ml (Value),Personal Care,Toothpaste 100ml,Value,86,67.0
+P0203,Toothpaste 100ml (Standard),Personal Care,Toothpaste 100ml,Standard,101,78.0
+P0204,Toothpaste 100ml (Premium),Personal Care,Toothpaste 100ml,Premium,131,98.0
+P0205,Bathing Soap 3pc (Value),Personal Care,Bathing Soap 3pc,Value,92,73.0
+P0206,Bathing Soap 3pc (Standard),Personal Care,Bathing Soap 3pc,Standard,108,82.0
+P0207,Bathing Soap 3pc (Premium),Personal Care,Bathing Soap 3pc,Premium,141,102.0
+P0208,Body Lotion 400ml (Value),Personal Care,Body Lotion 400ml,Value,169,131.0
+P0209,Body Lotion 400ml (Standard),Personal Care,Body Lotion 400ml,Standard,199,156.0
+P0210,Body Lotion 400ml (Premium),Personal Care,Body Lotion 400ml,Premium,258,193.0
+P0211,Petroleum Jelly 250ml (Value),Personal Care,Petroleum Jelly 250ml,Value,553,439.0
+P0212,Petroleum Jelly 250ml (Standard),Personal Care,Petroleum Jelly 250ml,Standard,651,517.0
+P0213,Petroleum Jelly 250ml (Premium),Personal Care,Petroleum Jelly 250ml,Premium,846,686.0
+P0214,Sanitary Pads (Value),Personal Care,Sanitary Pads,Value,248,199.0
+P0215,Sanitary Pads (Standard),Personal Care,Sanitary Pads,Standard,291,234.0
+P0216,Sanitary Pads (Premium),Personal Care,Sanitary Pads,Premium,379,288.0
+P0217,Deodorant (Value),Personal Care,Deodorant,Value,515,424.0
+P0218,Deodorant (Standard),Personal Care,Deodorant,Standard,605,479.0
+P0219,Deodorant (Premium),Personal Care,Deodorant,Premium,787,611.0
+P0220,Shampoo 400ml (Value),Personal Care,Shampoo 400ml,Value,389,312.0
+P0221,Shampoo 400ml (Standard),Personal Care,Shampoo 400ml,Standard,458,351.0
+P0222,Shampoo 400ml (Premium),Personal Care,Shampoo 400ml,Premium,595,468.0
+P0223,Diapers Medium 40pc (Value),Baby Care,Diapers Medium 40pc,Value,660,538.0
+P0224,Diapers Medium 40pc (Standard),Baby Care,Diapers Medium 40pc,Standard,776,648.0
+P0225,Diapers Medium 40pc (Premium),Baby Care,Diapers Medium 40pc,Premium,1009,847.0
+P0226,Diapers Large 36pc (Value),Baby Care,Diapers Large 36pc,Value,755,593.0
+P0227,Diapers Large 36pc (Standard),Baby Care,Diapers Large 36pc,Standard,889,700.0
+P0228,Diapers Large 36pc (Premium),Baby Care,Diapers Large 36pc,Premium,1155,952.0
+P0229,Baby Wipes (Value),Baby Care,Baby Wipes,Value,1207,918.0
+P0230,Baby Wipes (Standard),Baby Care,Baby Wipes,Standard,1420,1177.0
+P0231,Baby Wipes (Premium),Baby Care,Baby Wipes,Premium,1846,1448.0
+P0232,Baby Food 400g (Value),Baby Care,Baby Food 400g,Value,751,552.0
+P0233,Baby Food 400g (Standard),Baby Care,Baby Food 400g,Standard,884,645.0
+P0234,Baby Food 400g (Premium),Baby Care,Baby Food 400g,Premium,1149,953.0
+P0235,Baby Lotion 200ml (Value),Baby Care,Baby Lotion 200ml,Value,534,388.0
+P0236,Baby Lotion 200ml (Standard),Baby Care,Baby Lotion 200ml,Standard,628,475.0
+P0237,Baby Lotion 200ml (Premium),Baby Care,Baby Lotion 200ml,Premium,817,624.0
+P0238,Exercise Books 10pc (Value),Stationery,Exercise Books 10pc,Value,52,39.0
+P0239,Exercise Books 10pc (Standard),Stationery,Exercise Books 10pc,Standard,61,46.0
+P0240,Exercise Books 10pc (Premium),Stationery,Exercise Books 10pc,Premium,79,65.0
+P0241,Pens 10pc (Value),Stationery,Pens 10pc,Value,238,172.0
+P0242,Pens 10pc (Standard),Stationery,Pens 10pc,Standard,280,232.0
+P0243,Pens 10pc (Premium),Stationery,Pens 10pc,Premium,364,303.0
+P0244,Pencils 12pc (Value),Stationery,Pencils 12pc,Value,294,226.0
+P0245,Pencils 12pc (Standard),Stationery,Pencils 12pc,Standard,346,256.0
+P0246,Pencils 12pc (Premium),Stationery,Pencils 12pc,Premium,450,359.0
+P0247,Geometry Set (Value),Stationery,Geometry Set,Value,35,26.0
+P0248,Geometry Set (Standard),Stationery,Geometry Set,Standard,41,31.0
+P0249,Geometry Set (Premium),Stationery,Geometry Set,Premium,53,45.0
+P0250,School Bag (Value),Stationery,School Bag,Value,31,26.0
+P0251,School Bag (Standard),Stationery,School Bag,Standard,37,30.0
+P0252,School Bag (Premium),Stationery,School Bag,Premium,48,37.0
+P0253,Crayons (Value),Stationery,Crayons,Value,151,122.0
+P0254,Crayons (Standard),Stationery,Crayons,Standard,178,144.0
+P0255,Crayons (Premium),Stationery,Crayons,Premium,231,178.0
+P0256,Plastic Basin (Value),Home & Kitchen,Plastic Basin,Value,450,361.0
+P0257,Plastic Basin (Standard),Home & Kitchen,Plastic Basin,Standard,530,382.0
+P0258,Plastic Basin (Premium),Home & Kitchen,Plastic Basin,Premium,689,515.0
+P0259,Cooking Pot (Value),Home & Kitchen,Cooking Pot,Value,319,251.0
+P0260,Cooking Pot (Standard),Home & Kitchen,Cooking Pot,Standard,375,278.0
+P0261,Cooking Pot (Premium),Home & Kitchen,Cooking Pot,Premium,487,361.0
+P0262,Thermos Flask (Value),Home & Kitchen,Thermos Flask,Value,288,239.0
+P0263,Thermos Flask (Standard),Home & Kitchen,Thermos Flask,Standard,339,288.0
+P0264,Thermos Flask (Premium),Home & Kitchen,Thermos Flask,Premium,441,349.0
+P0265,Kitchen Knife Set (Value),Home & Kitchen,Kitchen Knife Set,Value,225,187.0
+P0266,Kitchen Knife Set (Standard),Home & Kitchen,Kitchen Knife Set,Standard,264,224.0
+P0267,Kitchen Knife Set (Premium),Home & Kitchen,Kitchen Knife Set,Premium,344,254.0
+P0268,Jerrycan 20L (Value),Home & Kitchen,Jerrycan 20L,Value,246,191.0
+P0269,Jerrycan 20L (Standard),Home & Kitchen,Jerrycan 20L,Standard,289,223.0
+P0270,Jerrycan 20L (Premium),Home & Kitchen,Jerrycan 20L,Premium,376,275.0
+P0271,Light Bulbs 2pc (Value),Home & Kitchen,Light Bulbs 2pc,Value,337,276.0
+P0272,Light Bulbs 2pc (Standard),Home & Kitchen,Light Bulbs 2pc,Standard,396,307.0
+P0273,Light Bulbs 2pc (Premium),Home & Kitchen,Light Bulbs 2pc,Premium,515,402.0

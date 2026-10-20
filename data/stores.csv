@@ -1,0 +1,31 @@
+store_id,store_name,county_code,county,town,store_format,till_number,open_date,traffic_weight,size_sqm
+S001,Mavuno Mart CBD,047,Nairobi,CBD,Hypermarket,1347883,2023-12-06,2.27,4890
+S002,Mavuno Mart Westlands,047,Nairobi,Westlands,Hypermarket,7852581,2019-02-25,2.27,4720
+S003,Mavuno Mart Kilimani,047,Nairobi,Kilimani,Supermarket,4613644,2016-07-11,1.032,1580
+S004,Mavuno Mart Karen,047,Nairobi,Karen,Supermarket,8656679,2022-11-28,1.032,1410
+S005,Mavuno Mart Embakasi,047,Nairobi,Embakasi,Supermarket,5501549,2020-12-24,1.032,1220
+S006,Mavuno Mart Kasarani,047,Nairobi,Kasarani,Express,9768411,2021-08-26,0.516,400
+S007,Mavuno Mart Thika,022,Kiambu,Thika,Hypermarket,7316033,2015-12-04,2.387,4030
+S008,Mavuno Mart Ruiru,022,Kiambu,Ruiru,Supermarket,7967610,2017-12-19,1.085,1480
+S009,Mavuno Mart Kiambu Town,022,Kiambu,Kiambu Town,Supermarket,5253342,2022-04-17,1.085,1780
+S010,Mavuno Mart Nakuru CBD,032,Nakuru,Nakuru CBD,Hypermarket,4022580,2022-11-27,2.251,4070
+S011,Mavuno Mart Naivasha,032,Nakuru,Naivasha,Express,7924890,2019-02-18,0.512,330
+S012,Mavuno Mart Nakuru West,032,Nakuru,Nakuru West,Express,6616717,2026-04-14,0.512,370
+S013,Mavuno Mart Nyali,001,Mombasa,Nyali,Hypermarket,5681576,2022-12-29,1.743,4190
+S014,Mavuno Mart Mombasa CBD,001,Mombasa,Mombasa CBD,Supermarket,4712434,2018-09-06,0.792,1650
+S015,Mavuno Mart Likoni,001,Mombasa,Likoni,Supermarket,8934952,2023-07-13,0.792,1580
+S016,Mavuno Mart Kisumu CBD,042,Kisumu,Kisumu CBD,Express,1106263,2017-09-27,0.46,460
+S017,Mavuno Mart Mamboleo,042,Kisumu,Mamboleo,Supermarket,2069676,2025-11-11,0.919,1650
+S018,Mavuno Mart Eldoret CBD,027,Uasin Gishu,Eldoret CBD,Supermarket,7701832,2025-09-22,0.922,1470
+S019,Mavuno Mart Eldoret West,027,Uasin Gishu,Eldoret West,Express,4734030,2021-01-17,0.461,470
+S020,Mavuno Mart Machakos Town,016,Machakos,Machakos Town,Express,8984649,2026-01-05,0.508,350
+S021,Mavuno Mart Athi River,016,Machakos,Athi River,Supermarket,3957106,2022-11-28,1.016,1220
+S022,Mavuno Mart Kitengela,034,Kajiado,Kitengela,Supermarket,4933849,2025-02-26,0.906,1260
+S023,Mavuno Mart Ongata Rongai,034,Kajiado,Ongata Rongai,Supermarket,7562070,2022-08-24,0.906,1690
+S024,Mavuno Mart Meru Town,012,Meru,Meru Town,Express,6988964,2015-01-26,0.53,400
+S025,Mavuno Mart Nkubu,012,Meru,Nkubu,Express,4403077,2022-07-27,0.53,350
+S026,Mavuno Mart Kakamega Town,037,Kakamega,Kakamega Town,Supermarket,3595340,2022-06-22,1.178,1540
+S027,Mavuno Mart Mumias,037,Kakamega,Mumias,Supermarket,8058958,2022-05-31,1.178,1300
+S028,Mavuno Mart Nyeri Town,019,Nyeri,Nyeri Town,Supermarket,2299977,2021-04-25,1.051,1670
+S029,Mavuno Mart Malindi,003,Kilifi,Malindi,Supermarket,3636864,2025-12-29,1.027,1500
+S030,Mavuno Mart Kilifi Town,003,Kilifi,Kilifi Town,Supermarket,2655638,2021-09-12,1.027,1460
