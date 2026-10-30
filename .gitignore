@@ -1,2 +1,5 @@
 mavuno_env/
 .vscode/
+data/
+__pycache__/
+.ipynb_checkpoints/
